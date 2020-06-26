@@ -1,3 +1,21 @@
+### Where to view this app
+
+View this app here: https://juliennebay.github.io/tictactoe/
+
+### About this app
+
+The design of this game is based on this tutorial: https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
+
+### Tech Stack
+
+This is a purely front-end app using React. It was bootstrapped using create react app.
+
+### How this is deployed
+
+This app was deployed using the gh-pages package.
+
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
